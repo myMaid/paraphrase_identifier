@@ -75,6 +75,6 @@ According to paraphrase style, they can be classified into five types.
     * Align the two sentences and score the pair based on the alignment results
     * Previous works: [Wu, 2005](http://dl.acm.org/citation.cfm?id=1631867), [Das and Smith, 2009](https://www.aclweb.org/anthology/P/P09/P09-1053.pdf)
 
-More discussion on the previous works are documented [here](https://github.com/wasiahmad/Paraphrase-Identification-Task/blob/master/state-of-art-details.md).
+More discussion on the previous works are documented [here](https://github.com/tessydunbi/paraphrase_identifier/blob/main/state-of-art-details.md).
 ## Reference
   * [Paraphrases and Application - Association for Computational Linguistics](http://www.aclweb.org/anthology/C10-4001)
